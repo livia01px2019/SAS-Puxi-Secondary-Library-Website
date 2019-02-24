@@ -4,39 +4,54 @@ body{
 	padding:0;
 	font-family: 'Anton', sans-serif;
 }
+a{
+	color:black;
+}
 .contain_nav{
 	display:block;
 	height:10%;
 	width:100%;
-	background-color:#F1D302;
+	background-color:#2E2E2E;
 	margin:0;
 }
 .main_page{
 	margin:0;
 	height:90%;
 	width:100%;
-	background-color:#235789;
+	background-color:#C8C8C8;
 }
 .box-link-1{
 	margin:10px;
 	height:30%;
-	background-color:#805E73;
+	background-color:#3769B9;
+	text-align:center;
+	vertical-align:middle;
 }
 .box-link-2{
 	margin:10px;
 	height:30%;
-	background-color:#4E4D5C;
+	background-color:#CDAF4B;
+	text-align:center;
+	vertical-align:middle;
 }
 .box-link-3{
 	margin:10px;
 	height:30%;
-	background-color:#2D4654;
+	background-color:#D23C1E;
+	text-align:center;
+	vertical-align:middle;
 }
 .logo-center{
 	display:inline-block;
-	margin:auto;
+	margin-left:450px;
+
 }
 .catalog-right{
-	display:inline;
+	display:inline-block;
 	float:right;
+	padding-right:10px;
+}
+.text-squared{
+	display:inline-block;
+	vertical-align:middle;
 }
